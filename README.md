@@ -1,5 +1,5 @@
 # contract-example
-example of how to work with smart constracts
+example of how to use smart contracts in ambrosus network
 
 # usage
 
