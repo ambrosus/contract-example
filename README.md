@@ -12,7 +12,7 @@ exampleMethod2(v1, v2) - adds v1+v2, only owner can call
 
 prod.env - variables for example
 
-\contract-example\src\tasks\deploy.js - example of how to deploy and call methods
+\contract-example\src\tasks\deploy.js - example of how to deploy contract and call its methods
 
 # usage
 1. change deploy parameters in prod.env (replace example adresses WEB3_CREATOR_PRIVATEKEY and WEB3_OWNER_PRIVATEKEY with your own)
