@@ -3,8 +3,11 @@ example of how to use smart contracts in ambrosus network
 
 # files
 \contracts\example\example.sol - simple contract with example methods
+
 TransferOwner(address) - transfer ownership, only owner can call
+
 exampleMethod1(v1, v2) - adds v1+v2, anyone can call
+
 exampleMethod2(v1, v2) - adds v1+v2, only owner can call
 
 prod.env - variables for example
